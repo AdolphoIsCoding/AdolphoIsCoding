@@ -20,7 +20,7 @@
 
 ---
 
-### 💞️ I’m looking to collaborate on
+### 💪 I’m looking to collaborate on
 - Backend-heavy projects that use Java/Spring  
 - Open-source tools for anything since I'm open to everything!
 - College student dev teams focused on **real-world problem solving**
@@ -31,15 +31,3 @@
 - 📧 Email: ptech.adolphoramirez@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/adolpho-ramirez
 - 🌐 Portfolio: Coming soon!
-
----
-
-### 😄 Pronouns
-He/Him
-
----
-
-### ⚡ Fun fact
-I'm a first-gen college student who's obsessed with clean code, sports, exercising, and the Dallas Cowboys 💻⭐
-
----
