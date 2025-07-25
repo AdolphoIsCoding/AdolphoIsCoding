@@ -17,7 +17,6 @@
 - 🧠 Data Structures & Algorithms (DSA)  
 - 🚀 Spring Boot, REST APIs, and full-stack web app architecture  
 - 🧪 Unit testing with JUnit & Mockito  
-- 🗃️ SQL & NoSQL databases  
 
 ---
 
