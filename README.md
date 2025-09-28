@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Adolpho Ramirez (@AdolphoIsCoding)
 
-🎓 CS Major @ Davidson College | 💻 Backend Developer in the Making  
+🎓 CS Major @ Davidson College | 💻 Backend Developer in the Making 
+👨‍💻 IBM Software Engineer Co-op
 🏆 Amazon Future Engineer Scholar | 2x American Airlines Software Engineering Intern 
 
 ---
